@@ -61,10 +61,9 @@ http://localhost/crud_project
 
 ---
 ## 📸 Project Screenshots
-
 ### Login Page
 
-![Login](login page.png)
+![Login](login%20page.png)
 
 ### Dashboard
 
@@ -72,11 +71,13 @@ http://localhost/crud_project
 
 ### Add Student
 
-![Add Student](add_student.png)
+![Add Student](add%20student.png)
 
 ### Student List
 
 ![Student List](student_list.png)
+
+
 ## 👩‍💻 Developed By
 
 **Sulagna Patra**
