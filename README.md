@@ -60,7 +60,23 @@ The project helps manage student records using CRUD (Create, Read, Update, Delet
 http://localhost/crud_project
 
 ---
+## 📸 Project Screenshots
 
+### Login Page
+
+![Login](login.png)
+
+### Dashboard
+
+![Dashboard](dashboard.png)
+
+### Add Student
+
+![Add Student](add-student.png)
+
+### Student List
+
+![Student List](student-list.png)
 ## 👩‍💻 Developed By
 
 **Sulagna Patra**
