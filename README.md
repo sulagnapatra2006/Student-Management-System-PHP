@@ -64,7 +64,7 @@ http://localhost/crud_project
 
 ### Login Page
 
-![Login](login page.png)
+![Login](login.png)
 
 ### Dashboard
 
@@ -72,7 +72,7 @@ http://localhost/crud_project
 
 ### Add Student
 
-![Add Student](add student.png)
+![Add Student](add-student.png)
 
 ### Student List
 
